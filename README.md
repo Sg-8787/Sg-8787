@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Saurabh Gupta 👋
 
-<!--
-**Sg-8787/Sg-8787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML & GenAI Enthusiast | Full-Stack Developer | C++ & DSA | Data Analytics
 
-Here are some ideas to get you started:
+I'm an Electronics & Communication Engineering student passionate about
+Artificial Intelligence, Machine Learning, Generative AI, Data Analytics and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+
+- 🤖 AI/ML & Generative AI
+- 🧠 LLMs, RAG & Agentic AI
+- 💻 Data Structures & Algorithms in C++
+- 🌐 Full-Stack Web Development
+- 📊 Data Analytics & Machine Learning Projects
+
+### 🛠️ Tech Stack
+
+**Languages:** C, C++, Python, JavaScript 
+**AI/ML:** Scikit-learn, Numpy, Pandas TensorFlow, PyTorch, LLMs, RAG  
+**Web:** HTML, CSS, JavaScript, React, Node.js, Express.js  
+**Database:** MongoDB, MySQL  
+**Tools:** Git, GitHub, VS Code, Streamlit
+
+### 📌 Featured Projects
+
+- 🤖 AI/ML Projects
+- ✈️ AI Travel Planner
+- 📰 Fake News Detection
+- 📊 Data Analytics Projects
+- 🌐 Full-Stack Web Applications
+
+### 📫 Connect With Me
+
+- GitHub: [Sg-8787](https://github.com/Sg-8787)
+- LinkedIn: saurabh-gupta23
+- Mob No:9125065308
+  
+⭐ Always learning, building, and exploring new technologies.
