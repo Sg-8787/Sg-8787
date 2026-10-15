@@ -15,8 +15,7 @@ Artificial Intelligence, Machine Learning, Generative AI, Data Analytics and Sof
 
 ### 🛠️ Tech Stack
 
-**Languages:** C, C++, Python, JavaScript 
-
+**Languages:** C, C++, Python, JavaScript  
 **AI/ML:** Scikit-learn, Numpy, Pandas TensorFlow, PyTorch, LLMs, RAG  
 **Web:** HTML, CSS, JavaScript, React, Node.js, Express.js  
 **Database:** MongoDB, MySQL  
