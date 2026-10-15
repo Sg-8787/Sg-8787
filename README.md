@@ -17,7 +17,7 @@ Artificial Intelligence, Machine Learning, Generative AI, Data Analytics and Sof
 
 **Languages:** C, C++, Python, JavaScript  
 **AI/ML:** Scikit-learn, Numpy, Pandas TensorFlow, PyTorch, LLMs, RAG, Lang Graph, Lang Chain
-  **Web:** HTML, CSS, JavaScript, React, Node.js, Express.js  
+**Web:** HTML, CSS, JavaScript, React, Node.js, Express.js  
 **Database:** MongoDB, MySQL  
 **Tools:** Git, GitHub, VS Code, Streamlit
 
